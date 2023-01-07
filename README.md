@@ -1,5 +1,4 @@
-                           # astro.cc
-
+<h3 align="center"> # astro.cc</h3>
 <h3 align="center">My Lua Silent Aims + Blatant Camlocks All Built Into astro.cc My current project.</h3>
 
 - ⚡ How many bodyparts? **15**
